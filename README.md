@@ -21,7 +21,7 @@ burn(uint256 amount): Allows users to destroy a specific amount of their tokens.
 
 transfer(address to, uint256 amount): Allows users to transfer tokens to another address.
 
-```
+```javascript
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
